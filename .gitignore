@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.vscode/
+*.pt
+*.pth
+*.ckpt
+*.zip
+KuaiSAR_final/
+grid_search_results*/
+.DS_Store

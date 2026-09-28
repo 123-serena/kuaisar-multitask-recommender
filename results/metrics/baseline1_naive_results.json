@@ -1,0 +1,14 @@
+{
+  "click_pos_rate": 0.4981272309241759,
+  "click_naive_AUC": 0.5,
+  "click_naive_logloss": 0.6933492338106166,
+  "like_pos_rate": 0.030734161059295766,
+  "like_naive_AUC": 0.5,
+  "like_naive_logloss": 0.1357277199290279,
+  "follow_pos_rate": 0.004792884055134802,
+  "follow_naive_AUC": 0.5,
+  "follow_naive_logloss": 0.028101322804735998,
+  "watch_ratio_train_mean": 0.5300845039278452,
+  "watch_ratio_naive_MAE": 0.5182228637763904,
+  "watch_ratio_naive_RMSE": 0.7197078469612334
+}
